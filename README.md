@@ -14,10 +14,10 @@ predicting match outcomes based on historical or structured data.
 This project explores how machine learning can be used in **cricket
 match prediction**, covering:
 
--   Data Preparation & Cleaning\
--   Feature Selection\
--   Model Training\
--   Prediction & Evaluation\
+-   Data Preparation & Cleaning
+-   Feature Selection
+-   Model Training
+-   Prediction & Evaluation
 -   Performance Metrics
 
 The notebook is designed to build intuition about applying ML in
@@ -29,24 +29,24 @@ real-world scenarios.
 
 ### ✅ Data Processing
 
--   Dataset loading\
--   Handling missing values\
--   Feature engineering\
+-   Dataset loading
+-   Handling missing values
+-   Feature engineering
 -   Data transformation
 
 ------------------------------------------------------------------------
 
 ### ✅ Model Development
 
--   Training machine learning models\
--   Prediction logic\
+-   Training machine learning models
+-   Prediction logic
 -   Evaluation techniques
 
 ------------------------------------------------------------------------
 
 ### ✅ Prediction System
 
--   PSL match outcome prediction\
+-   PSL match outcome prediction
 -   Model performance analysis
 
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 1.  Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone URL
 
 2.  Open the notebook:
 
@@ -88,9 +88,9 @@ jupyter notebook PSL_Prediction.ipynb
 This notebook helps understand:
 
 ✔ How ML can be applied to sports analytics\
-✔ Data preprocessing techniques\
-✔ Feature engineering importance\
-✔ Model training & evaluation\
+✔ Data preprocessing techniques
+✔ Feature engineering importance
+✔ Model training & evaluation
 ✔ Prediction workflow
 
 ------------------------------------------------------------------------
